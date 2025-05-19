@@ -1,0 +1,11 @@
+streamlit
+requests
+sentence-transformers
+chromadb
+langchain
+wordcloud
+pandas
+matplotlib
+better_profanity
+pypdf
+
