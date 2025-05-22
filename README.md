@@ -45,9 +45,8 @@ LangChain
 Streamlit
 RAG with ChromaDB and Ollama
 
-## 👥 Contributors
+![image](https://github.com/user-attachments/assets/afb00738-9e23-4b02-9b0a-7a4a52cacc81)
 
-Daniarbek Madiyar
-Zholdybayev Didar
+![image](https://github.com/user-attachments/assets/b3e0b47f-9921-45cf-8e63-2ae034916adb)
 
----
+![image](https://github.com/user-attachments/assets/e2e90ebb-44da-421e-b2a6-61038718fbd2)
